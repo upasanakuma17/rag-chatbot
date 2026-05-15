@@ -1,4 +1,3 @@
-````md
 # 🤖 RAG Chatbot using Ollama + FAISS
 
 A Retrieval-Augmented Generation (RAG) chatbot that allows users to upload PDF documents and ask questions based on the document content.
