@@ -1,4 +1,4 @@
 __pycache__/
 vectorstore/
 .env
-
+.vscode/
